@@ -8,7 +8,6 @@ In my work time I code, and in my rest time I code, the rest of the time I try t
 
 * 🌍  I'm based in Planet Earth
 * ✉️  You can contact me at [eighty9nine@gmail.com](mailto:eighty9nine@gmail.com)
-* 🚀  I'm currently working on [Money tuesdays](http://moneytuesdays.pro)
 * 🧠  I'm learning Marketing and Sales 😅
 * 🤝  I'm open to collaborating on Developing a Saas
 * ⚡  I like Liverpool and NfRealMusic
